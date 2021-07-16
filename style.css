@@ -1,0 +1,18 @@
+#start-btn {
+    position: absolute;
+    top: 280px;
+    text-align: center;
+    width: 935px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#instructions {
+    position: absolute;
+    top: 360px;
+    font-size: 20px;
+    background-color: rgb(85, 128, 165);
+    color: white;
+    width: 500px;
+    text-align: center;
+}
